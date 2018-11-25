@@ -1,0 +1,117 @@
+*{
+    -moz-appearance: none;
+    height:44px;
+    border-radius:45px;
+    color:black;
+}
+.background{
+    background-image:url(001.gif);
+    margin-top: 0px;
+    width: 1920px;
+    height: 1080px;
+    position: absolute;
+    border-radius:0px;
+}
+.head{
+    position: absolute;
+    margin-left:290px;
+    margin-top: 92px;
+    font-style: italic;
+    font-size: 56px;
+    color:white
+}
+.index_frame{
+    position: absolute;
+    height: 660px;
+    width: 924px;
+    background-image:url(biankuang.gif);
+    top: 209px;
+    left: 500px;
+    opacity: 0.5;
+}
+.fill{
+    background:blue;
+    opacity:0.1;
+    height: 660px;
+    width: 924px;
+    position: relative;
+}
+.index_photo{
+    position: absolute;
+    background: url(头像.gif);
+    background-color:white;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 172px;
+    height:206px;
+    top: 295px;
+    left: 1164px;
+    writing-mode:vertical-lr; 
+    text-align: center;
+    font-size: 20px;
+}
+.index_name{
+    position: absolute;
+    top: 298px;
+    left: 578px;
+    font-size: 20px;
+}
+.index_sex{
+    position: absolute;
+    top: 298px;
+    left: 834px;
+    font-size: 20px;
+}
+.index_major{
+    position: absolute;
+    top: 375px;
+    left: 578px;
+    font-size: 20px;
+}
+.index_class{
+    position: absolute;
+    top: 375px;
+    left: 834px;
+    font-size: 20px;
+}
+.index_tel{
+    position: absolute;
+    top: 452px;
+    left: 578px;
+    font-size: 20px;
+}
+.index_will1{
+    position: absolute;
+    top: 530px;
+    left: 578px;
+    float: none;
+    font-size: 20px;
+    height: 44px;
+    width: 370px;
+}
+.index_will2{
+    position: absolute;
+    top: 530px;
+    left: 1010px;
+    float: none;
+    font-size: 20px;
+    height: 44px;
+    width: 258px;
+}
+.index_reason{
+    position: absolute;
+    top:608px;
+    left: 924px;
+    font-size: 20px;
+}
+.reason{
+    position: absolute;
+    top: 648px;
+    left: 578px;
+    border-radius: 10px 10px 10px 10px;
+}
+.index_finish{
+    position: absolute;
+    top: 790px;
+    left: 884px;
+}
